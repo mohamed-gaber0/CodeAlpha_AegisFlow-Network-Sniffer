@@ -116,7 +116,7 @@ aegisflow_dpi/
 ```
 ## 🎥 Video Demonstration
 Check out the automated threat simulation and DPI engine in action!
-**[▶️ Watch the Demo on Google Drive]((https://drive.google.com/file/d/1SDARG4fRZCyeOYDHi4ZZu3Iw6PzNv5NY/view?usp=drive_link))**
+**[▶️ Watch the Demo on Google Drive]([https://drive.google.com/file/d/1SDARG4fRZCyeOYDHi4ZZu3Iw6PzNv5NY/view?usp=drive_link])**
 
 ---
 
